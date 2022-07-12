@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://j4w26zzb2bg7utfvht6x7d7zjkont4z7domkjtkjcdqdhwgrf4uq@dev.azure.com/Au10tix-AD/Au10tix/_git/gitH
+	fetch = +refs/*:refs/*
+	mirror = true
