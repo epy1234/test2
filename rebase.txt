@@ -1,0 +1,12 @@
+Squash 
+git rebase -i <commit into> or 
+git rebase HEAD~<number>
+
+:%s/pick/s/g
+
+change TOP commit to 'pick'
+:wq
+give a message
+:wq
+
+git push --force
